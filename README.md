@@ -17,4 +17,4 @@ Spaceでホーミングアロー
 ![vlcsnap-2021-03-26-00h57m00s482](https://user-images.githubusercontent.com/80879803/112503362-2fd1f380-8dce-11eb-8ce6-536c753df8c4.png)
 左クリックでバラージ  
 右クリックでエクスプロージョン  
-Qでライトニング  
+Qでライトニング  が発動できます
